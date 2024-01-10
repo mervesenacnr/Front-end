@@ -1,0 +1,46 @@
+body {
+    background-color:#8A2BE2;
+    text-align: center;
+}
+
+.font1{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.font2{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1
+{
+     color:aqua;
+     
+}
+
+h4{
+    color: #E6E6FA; 
+}
+
+p{
+    color: #fec3df; 
+}
+
+h3{
+    color: #ff89bf;
+}
+
+h2{
+    color: #ff89bf;
+}
+
+a{
+    color:#ffeea8;
+}
+
